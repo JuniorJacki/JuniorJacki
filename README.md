@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JuniorJacki
 - 👀 I’m interested in Programming with C#
-- 🌱 I’m currently learning WPF NEt Applikation Programming
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning WPF NET Application Programming
+- 💞️ I’m looking to collaborate on EV3dev
 - 📫 I´m Anonym!
 
 <!---
