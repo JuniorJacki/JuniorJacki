@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming with C#
 - 🌱 I’m currently learning WPF NET Application Programming
 - 💞️ I’m looking to collaborate on EV3dev
-- 📫 I´m Anonym!
+- 📫 Discord: JuniorJacki#8126
 
 <!---
 JuniorJacki/JuniorJacki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
