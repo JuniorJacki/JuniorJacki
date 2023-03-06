@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @JuniorJacki
 - 👀 I’m interested in Programming with C++, C# , Python and Java
 - 🌱 I’m currently learning WPf / Windows Forms
+- 🌱 I'm currently coding a Programm that calls itself Notifyblog!
 - 💞️ I’m looking to collaborate on Bitcoin
 - 📫 Discord: JuniorJacki#4534
