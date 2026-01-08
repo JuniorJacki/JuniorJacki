@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuniorJacki
 - 👀 I’m interested in Programming with Java, C# and Python
-- 🌱 I’m currently learning Java Spring.
-- 🌱 I'm currently coding on Moro (More Information on my Website)!
+- 🌱 I’m currently learning Docker.
+- 🌱 I'm currently coding on NexJ (More Information on my Website)!
 - 💞️ I’m looking to collaborate on Bitcoin
 - 📫 Discord: JuniorJacki#4534
