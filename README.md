@@ -11,8 +11,7 @@
 ### 🚀 Currently Working On
 * **Java LSP Server** – Building a custom language server from scratch, focusing on parsing, AST, and smart code-completion.
 * **NexJ** – Active core development. *(Check out my website for more details!)*
-* **Docker** – Diving deep into containerization and deployment.
-
+* **ESP Microcontrollers** – Diving deep into hardware programming, IoT projects, and low-level development using C and C++.
 ---
 
 ### 🛠️ Languages & Tools I Love
